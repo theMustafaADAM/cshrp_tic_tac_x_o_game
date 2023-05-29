@@ -1,0 +1,10 @@
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\bin\Debug\xo_tic_tac.exe.config
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\bin\Debug\xo_tic_tac.exe
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\bin\Debug\xo_tic_tac.pdb
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.csproj.AssemblyReference.cache
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.tictacXO.resources
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.Properties.Resources.resources
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.csproj.GenerateResource.cache
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.csproj.CoreCompileInputs.cache
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.exe
+C:\Users\smart\Dropbox\CsharpProgramming\tic_tac_x_o\xo_tic_tac\obj\Debug\xo_tic_tac.pdb
